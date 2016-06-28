@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 /**
- * 아무것도 안보고 품: O
  * 속도: 하
  * 만족도: 하
  * 설명:
