@@ -1,43 +1,35 @@
-import java.util.HashSet;
+//just solve brute-force way
+//gogo find other soultion.
 
-//3개의 double 이 한세트임. 이 세트가 같은걸 판별해야함.
 public class e40 {
+    static String str="";
+    static  int sum=1;
     public static void main(String[] args) {
+        int num=1;
 
-        int sides=120;
-        int MAX=sides+1;
-        HashSet<Double> hs=new HashSet<>();
-
-        for(int i=1;i<MAX;i++){
-            double a=i;
-            for(int j=1;j<MAX-i;j++){
-                double b=j;
-                double c=sides-a-b;
-                if(isTri(a,b,c)) {
-                    hs.add(a);
-                    hs.add(b);
-                    hs.add(c);
-                }
-            }
+        final int MAXSTR=1000000;
+        while(true){
+            str+=num;
+            num++;
+            if(str.length()>MAXSTR)
+                break;
         }
-        System.out.println(hs.size());
+        System.out.println(str);
+        mul(1);
+        mul(10);
+        mul(100);
+        mul(1000);
+        mul(10000);
+        mul(100000);
+        mul(1000000);
+
+        System.out.println(sum);
     }
-    static boolean isTri(double a, double b,double c){
+    static void mul(int i){
+        i-=1;
+        sum*=(str.charAt(i)-48);
+        System.out.println(" "+(str.charAt(i)-48));
 
-//        System.out.println(a+" "+b+" "+c);
-
-        a=Math.pow(a, 2);
-        b=Math.pow(b, 2);
-        c=Math.pow(c, 2);
-
-//        System.out.println(" "+a+" "+b+" "+c);
-
-
-
-        if(c==(a+b))
-            return true;
-        else
-            return false;
     }
 }
 
