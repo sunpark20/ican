@@ -1,7 +1,7 @@
 //just solve brute-force way
 //gogo find other soultion.
 
-public class e40 {
+public class e40_Champernownesconstant {
     static String str="";
     static  int sum=1;
     public static void main(String[] args) {

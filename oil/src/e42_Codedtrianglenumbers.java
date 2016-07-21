@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class e42 {
+public class e42_Codedtrianglenumbers {
     public static void main(String args[]) throws Exception{ //not reliable throws
 
         //step1. words파일 읽어서 숫자로 변환하기

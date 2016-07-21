@@ -1,7 +1,7 @@
 //find BigO
 //prime is connect integer factorization(소인수 분해).
 
-public class e41 {
+public class e41_Pandigitalprime {
     static final int PRIMEMAX=100000000;
     static int num=0;
     static boolean[] primeArray;
