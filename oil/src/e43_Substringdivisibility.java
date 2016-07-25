@@ -1,4 +1,4 @@
-//I need training make permulation
+//I need training make permulation. In the 2way, the one is String type, the other is Integer type.
 //hard recursive function..
 
 public class e43_Substringdivisibility {
