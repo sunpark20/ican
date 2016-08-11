@@ -54,14 +54,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e51_Primedigitreplacements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e51_Primedigitreplacements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/e51_Primedigitreplacements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.511509">
-              <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e52_Permutedmultiples.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/e52_Permutedmultiples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10741688">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/e50_Consecutiveprimesum.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/e51_Primedigitreplacements.java" />
+        <option value="$PROJECT_DIR$/src/e52_Permutedmultiples.java" />
       </list>
     </option>
   </component>
@@ -169,6 +180,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,9 +217,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,22 +243,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.e51_Primedigitreplacements">
-    <configuration default="false" name="e46_Goldbachsotherconjecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="e46_Goldbachsotherconjecture" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="oil" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.e52_Permutedmultiples">
     <configuration default="false" name="e48_Selfpowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="e48_Selfpowers" />
@@ -296,6 +292,21 @@
     <configuration default="false" name="e51_Primedigitreplacements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="e51_Primedigitreplacements" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oil" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="e52_Permutedmultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="e52_Permutedmultiples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -457,19 +468,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.e46_Goldbachsotherconjecture" />
-      <item index="1" class="java.lang.String" itemvalue="Application.e48_Selfpowers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.e49_Primepermutations" />
-      <item index="3" class="java.lang.String" itemvalue="Application.e50_Consecutiveprimesum" />
-      <item index="4" class="java.lang.String" itemvalue="Application.e51_Primedigitreplacements" />
+      <item index="0" class="java.lang.String" itemvalue="Application.e48_Selfpowers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.e49_Primepermutations" />
+      <item index="2" class="java.lang.String" itemvalue="Application.e50_Consecutiveprimesum" />
+      <item index="3" class="java.lang.String" itemvalue="Application.e51_Primedigitreplacements" />
+      <item index="4" class="java.lang.String" itemvalue="Application.e52_Permutedmultiples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.e51_Primedigitreplacements" />
-        <item index="1" class="java.lang.String" itemvalue="Application.e50_Consecutiveprimesum" />
-        <item index="2" class="java.lang.String" itemvalue="Application.e49_Primepermutations" />
-        <item index="3" class="java.lang.String" itemvalue="Application.e48_Selfpowers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.e46_Goldbachsotherconjecture" />
+        <item index="0" class="java.lang.String" itemvalue="Application.e52_Permutedmultiples" />
+        <item index="1" class="java.lang.String" itemvalue="Application.e51_Primedigitreplacements" />
+        <item index="2" class="java.lang.String" itemvalue="Application.e50_Consecutiveprimesum" />
+        <item index="3" class="java.lang.String" itemvalue="Application.e49_Primepermutations" />
+        <item index="4" class="java.lang.String" itemvalue="Application.e48_Selfpowers" />
       </list>
     </recent_temporary>
   </component>
@@ -507,10 +518,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28327644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28327644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15128593" sideWeight="0.49317408" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15128593" sideWeight="0.49317408" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -545,13 +556,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/e67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/e14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -857,9 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="12" selection-start-column="6" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2509#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,11 +908,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/e51_Primedigitreplacements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.511509">
-          <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/e52_Permutedmultiples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10741688">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
