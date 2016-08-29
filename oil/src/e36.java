@@ -44,6 +44,7 @@ public class e36 {
         }
         return result;
     }
+
     static boolean isPalindrome(String num){
         StringBuilder sb=new StringBuilder(num);
         String reverseNum=sb.reverse().toString();

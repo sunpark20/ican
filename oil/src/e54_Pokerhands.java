@@ -1,3 +1,5 @@
+//there is hell.. I NEED PRETTY FUNTION.. CLASS..
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
