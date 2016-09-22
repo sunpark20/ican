@@ -1,4 +1,5 @@
-package e1303;// 정답봄..실패... 이제 안봐야지..분하다
+package e1303;
+// 정답봄..실패... 이제 적어도 1달은 풀어보고 정답을 보자.
 // 백정에 하나더 있으니까, 이거 까먹을 떄쯤 그거 풀어봐. 그건 input많음.
 
 import java.util.*;
@@ -166,7 +167,6 @@ class StimeComp implements Comparator<room> {
         // TODO Auto-generated method stub
         return arg0.f-arg1.f;
     }
-
 }
 
 class room {
